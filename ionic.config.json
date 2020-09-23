@@ -1,0 +1,7 @@
+{
+  "name": "financGestion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
